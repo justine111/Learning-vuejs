@@ -1,0 +1,6 @@
+{
+  "appId": "com.example.app",
+  "appName": "todolist",
+  "webDir": "dist",
+  "bundledWebRuntime": false
+}
